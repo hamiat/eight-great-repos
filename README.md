@@ -1,2 +1,2 @@
 # eight-great-repos
-Created with CodeSandbox
+A counter that uses the GitHub REST API to retive some information about 8 great repositories, created with React.
